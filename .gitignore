@@ -1,0 +1,10 @@
+# Build artifacts
+build/
+*.bin
+*.elf
+*.hex
+*.map
+ESP32_AdBlocker.ino.*.bin
+ESP32_AdBlocker.ino.*.elf
+ESP32_AdBlocker.ino.*.hex
+ESP32_AdBlocker.ino.*.map
